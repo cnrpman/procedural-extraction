@@ -1,4 +1,7 @@
+## _The code is moved to the repo at https://github.com/INK-USC/procedural-extraction. Sorry for the inconvenience._
+
 # Procedural Extraction
+
 Code for paper *Eliciting Knowledge from Experts: Automatic Transcript Parsing for Cognitive Task Analysis*, in proceedings of ACL 2019 
 
 This code provides a framwork for extracting procedural information from documents. Please refer to our ACL paper ([arXiv](https://arxiv.org/abs/1906.11384)) for further descriptions.
